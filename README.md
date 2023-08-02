@@ -53,3 +53,4 @@ This case study involved the analysis of Citi Bike trip data to discover unexpec
 ![Visualization Example](images/map3.png)
 ![Visualization Example](images/map4.png)
 ![Visualization Example](images/map5.png)
+![Visualization Example](images/map6.png)
