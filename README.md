@@ -2,7 +2,7 @@
 Explore and analyze Citi Bike trip data using Tableau. Discover unexpected phenomena, create visualizations, dashboards, and a Tableau story. Informative insights for city officials and administrators. Drive programmatic changes.
 
 ## Overview
-This README provides a summary of the case study and the steps taken to build a Tableau presentation for analyzing Citi Bike trip data. The objective of this project was to aggregate the Citi Bike Trip History Logs and discover two unexpected phenomena and showcase visualization skills in Tableau. The analysis includes the creation of visualizations, dashboards, and a Tableau story to present the findings to city officials.
+This README provides a summary of a case study and the steps taken to build a Tableau presentation for analyzing Citi Bike trip data. The objective of this project was to aggregate the Citi Bike Trip History Logs and discover two unexpected phenomena and showcase visualization skills in Tableau. The analysis includes the creation of visualizations, dashboards, and a Tableau story to present the findings to city officials.
 
 ## Steps Taken
 
@@ -45,7 +45,7 @@ This README provides a summary of the case study and the steps taken to build a 
 ## Conclusion
 This case study involved the analysis of Citi Bike trip data to discover unexpected phenomena and present the findings to city officials. By following the outlined steps, a comprehensive Tableau presentation was created, including visualizations, dashboards, and a Tableau story. The analysis and visualizations are designed to be easily understandable by a non-technical audience and provide insights to inform programmatic changes.
 
-[I invite you to check out the different visualization on Tableau Public.](https://public.tableau.com/app/profile/david.duran1903/viz/BikeRentalAnalysisMarchYroverYr/DavidDuran)
+[I invite you to check out the different visualizations on Tableau Public.](https://public.tableau.com/app/profile/david.duran1903/viz/BikeRentalAnalysisMarchYroverYr/DavidDuran)
 
 ## Preview
 ![Visualization Example](images/map.png)
